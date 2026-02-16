@@ -1,3 +1,4 @@
+![logo](https://github.com/tanviupadhyay1517/tanviupadhyay1517/blob/main/Black%20and%20White%20Illustrative%20Manager%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tanvi</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
