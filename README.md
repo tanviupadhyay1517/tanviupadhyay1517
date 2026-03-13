@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, and Power BI to build real-world Data Science projects.**
 
-- 💬 Ask me about **Ask me about Data Analysis, Dashboard Development, and Beginner Machine Learning.**
+- 💬 Ask me about **Data Analysis, Dashboard Development, and Beginner Machine Learning.**
 
 - 📫 How to reach me **tanuu4488@gmail.com**
 
