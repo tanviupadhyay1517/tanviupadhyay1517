@@ -1,14 +1,25 @@
 ![logo](https://github.com/tanviupadhyay1517/tanviupadhyay1517/blob/main/Black%20and%20White%20Illustrative%20Manager%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tanvi</h1>
-<h3 align="center"> Data Scientist Fresher</h3>
+<h3 align="center"> Data Science Enthusiast </h3>
 
 <image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviupadhyay1517&label=Profile%20views&color=0e75b6&style=flat" alt="tanviupadhyay1517" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL, and Power BI to build real-world Data Science projects.**
+- ** 🌱 I am a BCA graduate and Data Science enthusiast with hands-on project experience in SQL, Python, Excel, Power BI, Tableau, AI, and Machine Learning.**
 
-- 💬 Ask me about **Data Analysis, Dashboard Development, and Beginner Machine Learning.**
+- 💬 Ask me about **I work on data analytics and data science projects focused on data cleaning, analysis, dashboard development, business insights, and predictive analytics.
+- ## Technical Skills
+SQL | Python | Excel | Power BI | Tableau | Data Analysis | Data Cleaning | Data Visualization | Business Intelligence | Machine Learning | AI/ML
+## Project Areas
+* SQL Business Analytics
+* Excel Dashboard Analytics
+* Python Data Analysis
+* Power BI & Tableau Dashboards
+* Machine Learning Projects
+
+## Career Focus
+My focus is Data Science, Data Analytics, Business Intelligence, and Machine Learning. I aim to solve real-world data problems using analytical thinking, technical skills, and data-driven decision-making.**
 
 - 📫 How to reach me **tanuu4488@gmail.com**
 
