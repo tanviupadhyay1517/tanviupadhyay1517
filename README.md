@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviupadhyay1517&label=Profile%20views&color=0e75b6&style=flat" alt="tanviupadhyay1517" /> </p>
 
-- 🌱 ** I am a BCA graduate and Data Science enthusiast with hands-on project experience in SQL, Python, Excel, Power BI, Tableau, AI, and Machine Learning.**
+- 🌱 **I am a BCA graduate and Data Science enthusiast with hands-on project experience in SQL, Python, Excel, Power BI, Tableau, AI, and Machine Learning.**
 
 - 💬 Ask me about **I work on data analytics and data science projects focused on data cleaning, analysis, dashboard development, business insights, and predictive analytics.**
 - Technical Skills
